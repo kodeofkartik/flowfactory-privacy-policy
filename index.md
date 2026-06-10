@@ -60,7 +60,7 @@ The extension does not use any analytics, advertising, or tracking services.
 | `downloads` | Save generated videos and images to your local Downloads folder |
 | `sidePanel` | Display the extension's control panel |
 | `storage` | Save your language preference, Pro settings, license key, and usage counters locally |
-| `host_permissions: labs.google/*` | Operate on Google Flow pages |
+| `host_permissions: labs.google/fx/*` | Operate on Google Flow pages |
 | `host_permissions: api.gumroad.com/*` | Validate your Pro license key with Gumroad |
 
 ## Data Retention
